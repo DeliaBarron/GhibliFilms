@@ -1,0 +1,13 @@
+
+body{
+    background-color: beige;
+}
+nav{
+    background-color: antiquewhite;
+}
+.dropdown-menu[data-bs-popper] {
+    top: 100%;
+    left: 400px;
+
+    margin-top: var(--bs-dropdown-spacer);
+}
